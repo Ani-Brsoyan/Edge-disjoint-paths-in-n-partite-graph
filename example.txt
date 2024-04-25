@@ -1,0 +1,10 @@
+//Vertices
+Athens Berlin Copenhagen
+Dublin Edinburg Frankfurt
+Glasgow Helsinki Ibiza
+Jerusalem Krakov Lisbon
+
+//Edges
+{Athens-Dublin, Athens-Edinburg, Berlin-Edinburg, Berlin-Frankfurt, Copenhagen-Frankfurt}
+{Dublin-Glasgow, Edinburg-Helsinki, Frankfurt-Ibiza, Edinburg-Ibiza}
+{Glasgow-Krakov, Glasgow-Lisbon, Helsinki-Lisbon, Ibiza-Lisbon, Ibiza-Jerusalem}
