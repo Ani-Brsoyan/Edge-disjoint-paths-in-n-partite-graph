@@ -1,6 +1,6 @@
-## README
+# README
 
-# The Problem Of Finding Maximum Edge-Disjoint Paths In N-partite Graph
+## The Problem Of Finding Maximum Edge-Disjoint Paths In N-partite Graph
 
 This program is written in C++ in the Qt framework. 
 
